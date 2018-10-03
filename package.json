@@ -1,7 +1,7 @@
 {
-  "name": "lottie-react-native",
-  "version": "2.5.8",
-  "description": "React Native bindings for Lottie",
+  "name": "@bam.tech/lottie-react-native",
+  "version": "2.5.9",
+  "description": "React Native bindings for Lottie (fork to fix xCode 10 waiting for upstream to release merged PR)",
   "main": "lib/index.js",
   "types": "src/js/index.d.ts",
   "scripts": {
